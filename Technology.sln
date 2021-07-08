@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Technology", "ch21-inheritance-exercise\Technology.csproj", "{43CEBABD-2B59-4378-96B2-679611979649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnologyTests", "TechnologyTests\TechnologyTests.csproj", "{EF46514E-5248-43BD-A8FA-B6AE2696D142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43CEBABD-2B59-4378-96B2-679611979649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CEBABD-2B59-4378-96B2-679611979649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CEBABD-2B59-4378-96B2-679611979649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CEBABD-2B59-4378-96B2-679611979649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF46514E-5248-43BD-A8FA-B6AE2696D142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF46514E-5248-43BD-A8FA-B6AE2696D142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF46514E-5248-43BD-A8FA-B6AE2696D142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF46514E-5248-43BD-A8FA-B6AE2696D142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F225422-F3B1-4687-98F3-0CFB933ABD81}
+	EndGlobalSection
+EndGlobal

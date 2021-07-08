@@ -1,0 +1,16 @@
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\obj\Debug\net5.0\Technology.csproj.AssemblyReference.cache
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\obj\Debug\net5.0\Technology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\obj\Debug\net5.0\Technology.AssemblyInfoInputs.cache
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\obj\Debug\net5.0\Technology.AssemblyInfo.cs
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\obj\Debug\net5.0\Technology.csproj.CoreCompileInputs.cache
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\bin\Debug\net5.0\Technology.exe
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\bin\Debug\net5.0\Technology.deps.json
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\bin\Debug\net5.0\Technology.runtimeconfig.json
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\bin\Debug\net5.0\Technology.runtimeconfig.dev.json
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\bin\Debug\net5.0\Technology.dll
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\bin\Debug\net5.0\ref\Technology.dll
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\bin\Debug\net5.0\Technology.pdb
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\obj\Debug\net5.0\Technology.dll
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\obj\Debug\net5.0\ref\Technology.dll
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\obj\Debug\net5.0\Technology.pdb
+C:\Users\Justin\OneDrive\Desktop\LaunchCode\exercises\ch-21\ch21-inheritance-exercise\ch21-inheritance-exercise\obj\Debug\net5.0\Technology.genruntimeconfig.cache
